@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Maner
+💻 Full Stack Developer | 🎓 MCA Student | 🚀 Passionate about Coding
 
-<!--
-**amanCoderX/amanCoderX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🧠 Currently learning: Node.js, Express, MongoDB
+- 📁 Recent projects: Hospital Management System, GitHub Profile Finder, Netflix Clone
+- 🎯 Goals: Become a skilled backend developer and land a great job
+- 🌍 Based in: Pune, India
 
-Here are some ideas to get you started:
+## 📌 Projects
+- 🔥 [Task Manager App](#)
+- 🛒 [E-Commerce Website](#)
+- 🏥 [Hospital Management System](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: amanmaner999@gmail.com
+- LinkedIn:  https://www.linkedin.com/in/amanmaner
+- GitHub:  https://github.com/amanCoderX
+
+
+
+> ⚡ “Talk is cheap. Show me the code.” — Linus Torvalds
