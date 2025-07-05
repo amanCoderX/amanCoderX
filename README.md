@@ -8,9 +8,10 @@
 - 🌍 Based in: Pune, India
 
 ## 📌 Projects
-- 🔥 [Task Manager App](#)
-- 🛒 [E-Commerce Website](#)
-- 🏥 [Hospital Management System](#)
+- 🔥 [Voting App](https://github.com/amanCoderX/Voting-app)
+- 🎬 [Netflix Clone](https://github.com/amanCoderX/Netflix-Clone)
+- 👤 [Github Profile Finder](https://github.com/amanCoderX/github-profile-finder)
+- ⏰ [Digital Clock](https://github.com/amanCoderX/Digital-Clock)
 
 ## 📫 Contact Me
 - Email: amanmaner999@gmail.com
