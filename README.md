@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Aman Maner
-
-🎓 MCA Student | 💻 Full Stack Developer (MERN Stack) | 🌐 Based in Pune, India
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Aman+Maner;Full+Stack+Developer;MCA+Student+from+India" alt="Typing SVG" />
+</p>
 
 ## 🧑‍💻 About Me
 
