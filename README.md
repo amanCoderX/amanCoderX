@@ -34,7 +34,6 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 
 ## 📁 Featured Projects
 
-- 🔹 [Hospital Management System](https://github.com/amanCoderX/Hospital-Management-System) – Full-stack system for managing patients, appointments, and doctors (in progress)
 - 🔹 [GitHub Profile Finder](https://github.com/amanCoderX/github-profile-finder) – Search any GitHub user using public API
 - 🔹 [Netflix Clone](https://github.com/amanCoderX/Netflix-Clone) – React UI clone of Netflix interface
 - 🔹 [Voting App](https://github.com/amanCoderX/Voting-app) – Dynamic voting platform using Node.js and Express
