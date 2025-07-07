@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Aman+Maner;Full+Stack+Developer;MCA+Student+from+India" alt="Typing SVG" />
 </p>
 
+
 ## 🧑‍💻 About Me
 
 I'm a passionate software developer focused on building clean, scalable, and production-ready web applications. With hands-on experience in full-stack development, I love working on real-world problems and improving my skills every day.
@@ -26,6 +27,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
   </a>
 </p>
 
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Backend
@@ -47,14 +49,6 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-## 📫 Get in Touch
-
-- 📧 Email: amanmaner999@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/amanmaner](https://www.linkedin.com/in/amanmaner)  
-- 🖥 GitHub: [github.com/amanCoderX](https://github.com/amanCoderX)
-
-
-> “Talk is cheap. Show me the code.” — Linus Torvalds
 
 
 ## 📌 Projects
@@ -64,4 +58,6 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 - ⏰ [Digital Clock](https://github.com/amanCoderX/Digital-Clock)  – Real-time JavaScript-based clock
 
 
-> ⚡ “Talk is cheap. Show me the code.” — Linus Torvalds
+
+>  “Talk is cheap. Show me the code.” — Linus Torvalds
+> 
