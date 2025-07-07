@@ -32,13 +32,6 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-## 📁 Featured Projects
-
-- 🔹 [GitHub Profile Finder](https://github.com/amanCoderX/github-profile-finder) – Search any GitHub user using public API
-- 🔹 [Netflix Clone](https://github.com/amanCoderX/Netflix-Clone) – React UI clone of Netflix interface
-- 🔹 [Voting App](https://github.com/amanCoderX/Voting-app) – Dynamic voting platform using Node.js and Express
-- 🔹 [Digital Clock](https://github.com/amanCoderX/Digital-Clock) – Real-time JavaScript-based clock
-
 ## 📫 Get in Touch
 
 - 📧 Email: amanmaner999@gmail.com  
@@ -50,10 +43,10 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 
 
 ## 📌 Projects
-- 🔥 [Voting App](https://github.com/amanCoderX/Voting-app)
-- 🎬 [Netflix Clone](https://github.com/amanCoderX/Netflix-Clone)
-- 👤 [Github Profile Finder](https://github.com/amanCoderX/github-profile-finder)
-- ⏰ [Digital Clock](https://github.com/amanCoderX/Digital-Clock)
+- 🔥 [Voting App](https://github.com/amanCoderX/Voting-app) – Dynamic voting platform using Node.js and Express
+- 🎬 [Netflix Clone](https://github.com/amanCoderX/Netflix-Clone)  – React UI clone of Netflix interface
+- 👤 [Github Profile Finder](https://github.com/amanCoderX/github-profile-finder) – Search any GitHub user using public API
+- ⏰ [Digital Clock](https://github.com/amanCoderX/Digital-Clock)  – Real-time JavaScript-based clock
 
 ## 📫 Contact Me
 - Email: amanmaner999@gmail.com
