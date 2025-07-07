@@ -11,6 +11,21 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 - 🎯 Goal: Become a Backend Engineer and build impactful products
 - 📍 Location: Pune, Maharashtra
 
+  
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="mailto:amanmaner999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/amanmaner" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/amanCoderX" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Backend
@@ -47,12 +62,6 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 - 🎬 [Netflix Clone](https://github.com/amanCoderX/Netflix-Clone)  – React UI clone of Netflix interface
 - 👤 [Github Profile Finder](https://github.com/amanCoderX/github-profile-finder) – Search any GitHub user using public API
 - ⏰ [Digital Clock](https://github.com/amanCoderX/Digital-Clock)  – Real-time JavaScript-based clock
-
-## 📫 Contact Me
-- Email: amanmaner999@gmail.com
-- LinkedIn:  https://www.linkedin.com/in/amanmaner
-- GitHub:  https://github.com/amanCoderX
-
 
 
 > ⚡ “Talk is cheap. Show me the code.” — Linus Torvalds
