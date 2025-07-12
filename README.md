@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Aman+Maner;Full+Stack+Developer;MCA+Student+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Aman+Maner;Full+Stack+Developer;MCA+Student" alt="Typing SVG" />
 </p>
 
 
@@ -56,6 +56,8 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 - 🎬 [Netflix Clone](https://github.com/amanCoderX/Netflix-Clone)  – React UI clone of Netflix interface
 - 👤 [Github Profile Finder](https://github.com/amanCoderX/github-profile-finder) – Search any GitHub user using public API
 - ⏰ [Digital Clock](https://github.com/amanCoderX/Digital-Clock)  – Real-time JavaScript-based clock
+
+
 
 
 
