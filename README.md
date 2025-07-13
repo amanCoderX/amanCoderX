@@ -9,7 +9,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 
 - 🔭 I’m currently working on: Hospital Management System (Node.js + Express + JSON)
 - 🌱 Learning: Backend system design, MongoDB, and TypeScript
-- 🎯 Goal: Become a Backend Engineer and build impactful products
+- 🎯 Goal: Become a Full Stack Engineer and build impactful products
 - 📍 Location: Pune, Maharashtra
 
   
