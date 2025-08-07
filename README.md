@@ -28,10 +28,14 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 </p>
 
 
+
 ### 🛠️ Tech Stack
 
 
+
+
 ## 💻 Programming Languages
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -42,7 +46,9 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 
 
 
+
 ## 🎨 Frontend Technologies
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Vanilla CSS](https://img.shields.io/badge/Vanilla%20CSS-2965f1?style=flat-square&logo=css3&logoColor=white)
@@ -54,7 +60,9 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 
 
 
+
 ## 🛠️ Backend Technologies
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -64,7 +72,9 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 
 
 
+
  ## 🧰 Tools & Platforms
+ 
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -82,6 +92,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 
 
 ## 📌 Projects
+
 
 - 🔥 [Voting App](https://github.com/amanCoderX/Voting-app) – Dynamic voting platform using Node.js and Express
 - 🎬 [Netflix Clone](https://github.com/amanCoderX/Netflix-Clone)  – React UI clone of Netflix interface
