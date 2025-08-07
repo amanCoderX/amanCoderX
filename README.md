@@ -26,7 +26,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
+<br>
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -44,7 +44,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-
+<br>
 
 ## 🎨 Frontend Technologies
 
@@ -58,7 +58,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 ![EJS](https://img.shields.io/badge/EJS-fff?style=flat-square&logo=ejs&logoColor=black)
 
 
-
+<br>
 
 ## 🛠️ Backend Technologies
 
@@ -70,7 +70,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
-
+<br>
 
  ## 🧰 Tools & Platforms
  
@@ -88,7 +88,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
-
+<br>
 
 ## 📌 Projects
 
