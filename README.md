@@ -2,15 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Aman+Maner;Full+Stack+Developer;MCA+Student" alt="Typing SVG" />
 </p>
 
+<br>
 
 ## 🧑‍💻 About Me
 
-I'm a passionate software developer focused on building clean, scalable, and production-ready web applications. With hands-on experience in full-stack development, I love working on real-world problems and improving my skills every day.
+I'm a passionate Software Development Engineer focused on building clean, scalable, and production-ready web applications. With hands-on experience in full-stack development, I love working on real-world problems and improving my skills every day.
 
-- 🔭 I’m currently working on: Hospital Management System (Node.js + Express + JSON)
-- 🌱 Learning: Backend system design, MongoDB, and TypeScript
-- 🎯 Goal: Become a Full Stack Engineer and build impactful products
-- 📍 Location: Pune, Maharashtra
+
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | MCA Student | Tech Enthusiast</h3>
+
+
+<br>
 
   
 ## 📫 Get in Touch
@@ -26,6 +28,8 @@ I'm a passionate software developer focused on building clean, scalable, and pro
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+
 <br>
 
 
