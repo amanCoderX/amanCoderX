@@ -107,5 +107,10 @@ I'm a passionate Software Development Engineer focused on building clean, scalab
 
 
 
->  “Talk is cheap. Show me the code.” — Linus Torvalds
+<p align="center">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓<br>
+&nbsp;&nbsp;💬 <strong>“Talk is cheap. Show me the code.”</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;— Linus Torvalds<br>
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</p>
 > 
