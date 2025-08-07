@@ -29,8 +29,7 @@ I'm a passionate software developer focused on building clean, scalable, and pro
 
 
 
-### 🛠️ Tech Stack
-
+<h2 align="center">🛠️ Tech Stack</h2>
 
 
 
